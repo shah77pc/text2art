@@ -1,2 +1,2 @@
 kornia
-pixray
+git+https://github.com/pixray/pixray

@@ -1,3 +1,4 @@
+git clone https://github.com/mfrashad/clipit.git
 import sys
 sys.path.append("clipit")
 import clipit

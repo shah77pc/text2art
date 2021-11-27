@@ -1,3 +1,5 @@
+import sys
+sys.path.append("clipit")
 import clipit
 # To reset settings to default
 clipit.reset_settings()

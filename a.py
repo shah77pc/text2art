@@ -1,4 +1,5 @@
-!git clone https://github.com/mfrashad/clipit.git
+
+RUN pip install -r requirements.txt
 import sys
 sys.path.append("clipit")
 import clipit

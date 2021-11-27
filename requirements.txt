@@ -1,2 +1,6 @@
 kornia
 git+https://github.com/pixray/pixray
+git+https://github.com/openai/CLIP
+torch==1.9.0+cu102 torchvision==0.10.0+cu102 torch-optimizer==0.1.0 -f https://download.pytorch.org/whl/torch/ -f https://download.pytorch.org/whl/torchvision/
+git+https://github.com/CompVis/taming-transformers.git
+ftfy regex tqdm omegaconf pytorch-lightning

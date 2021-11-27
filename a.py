@@ -1,7 +1,7 @@
 
 import sys
 sys.path.append("pixray")
-import clipit
+import pixray
 # To reset settings to default
 pixray.reset_settings()
 # You can use "|" to separate multiple prompts

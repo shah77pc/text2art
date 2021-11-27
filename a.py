@@ -1,1 +1,2 @@
-pip install torch
+import sys
+sys.path.append("clipit")

@@ -3,4 +3,8 @@ git+https://github.com/pixray/pixray
 git+https://github.com/openai/CLIP
 torch==1.9.0
 git+https://github.com/CompVis/taming-transformers.git
-ftfy regex tqdm omegaconf pytorch-lightning
+ftfy 
+regex 
+tqdm 
+omegaconf 
+pytorch-lightning

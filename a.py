@@ -1,6 +1,6 @@
 from IPython.utils import io
 with io.capture_output() as captured:
-  !pip install torch==1.9.0+cu102 torchvision==0.10.0+cu102 torch-optimizer==0.1.0 -f https://download.pytorch.org/whl/torch/ -f https://download.pytorch.org/whl/torchvision/
+  pip install torch==1.9.0+cu102 torchvision==0.10.0+cu102 torch-optimizer==0.1.0 -f https://download.pytorch.org/whl/torch/ -f https://download.pytorch.org/whl/torchvision/
   !git clone https://github.com/openai/CLIP
   # !pip install taming-transformers
   !git clone https://github.com/CompVis/taming-transformers.git
